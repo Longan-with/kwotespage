@@ -1,0 +1,159 @@
+p.a {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .indent{
+    padding-left: 59%;
+  }
+.healp{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 400%;
+    color: goldenrod;
+    background-color: goldenrod;
+}
+.healp:hover{
+    font-size: 400%;
+    color: aqua;
+}
+.boxen{
+    display: flex;
+    justify-content: center;
+    background-color: goldenrod;
+    color: brown;
+    width: 40%;
+    height: 100px;
+    padding: 0px;
+    border: 5px solid black;
+    margin: 0;
+    text-wrap: nowrap;
+    border-radius: 17%;
+}
+.boxent{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: brown;
+    width: 99%;
+    height: 100px;
+    padding-left: 0px;
+    border: 5px solid black;
+    margin: 0;
+    border-radius: 17%;
+}
+.halp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-size: 200%;
+    color: blue;
+
+    
+}
+.halp:hover{
+    font-size: 200%;
+    color: pink;
+}
+.boxenf{
+    display: flex;
+    justify-content: center;
+    background-color: lawngreen;
+    color: brown;
+    width: 40%;
+    height: 100px;
+    padding-left: 0px;
+    border: 5px solid black;
+    margin: 0;
+    border-radius: 17%;
+}
+.help{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    font-size: 200%;
+    color: lawngreen;
+
+}
+.help:hover{
+    font-size: 200%;
+    color: maroon;
+}
+.boxens{
+    display: flex;
+    justify-content: center;
+    background-color: darkcyan;
+    color: brown;
+    width: 99%;
+    height: 100px;
+    padding-left: 0px;
+    border: 5px solid black;
+    margin: 0;
+    border-radius: 17%;
+}
+.heelp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    font-size: 200%;
+    color: darkcyan;
+}
+.heelp:hover{
+    font-size: 200%;
+    color: yellow;
+}
+.boxenfinal{
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+    color: brown;
+    width: 100%;
+    height: 175px;
+    padding-left: 0px;
+    border: 5px solid black;
+    margin: 0;
+    font-size: 200%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: nowrap;
+    border-radius: 17%;
+}
+.final{
+    color: darkorchid;
+}
+
+.final:hover{
+    font-size: 100%;
+    color: lightgoldenrodyellow;
+}
+.finale{
+    text-align: center;
+    color: white;
+}
+.finale:hover{
+    font-size: 120%;
+    color: brown;
+}
+.healp:active{
+    font-size: 500%;
+    color: black;
+}
+.final:active{
+
+    color: chocolate;
+}
+.halp:active{
+    background-color: aqua;
+}
+.heelp:active{
+    color: white;
+    background-color: black;
+}
+.help:active{
+    background-color: maroon;
+    color: red;
+}
